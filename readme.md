@@ -33,10 +33,10 @@ HTML, CSS, JavaScript, JQuery.
 Copyright (c) 2017 Joel Bakken
 
 Program Specs:
-Behavior  | Input  | Output | Status
--------- | ------- | ------ | --------
+| Behavior | Input | Output | Status |
+|-------- | ------- | ------ | --------|
 Webpage shows a list of available pizza ingredients | n/a | n/a |  
 Webpage gives user the ability to choose an ingredient via a checkbox option |  Pepperoni | [pepperoni] |
 User can select multiple ingredients at once via a checkbox option |  Pepperoni  Olives | [pepperoni] [olives] |
 Webpage displays a summary of the selected order options | [Entire order] | Summary of order |
- |  |  |  
+ 
