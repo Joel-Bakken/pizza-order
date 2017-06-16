@@ -79,7 +79,7 @@ this.crust.forEach(function(element){
         {   total4 += 0.3;
         }
 
-        var total = (total1 + total2 + total3 + total4)
+        var total = (total1 + total2 + total3 + total4);
 
 
       return total;
@@ -89,7 +89,7 @@ this.crust.forEach(function(element){
 
   var itemPrice = function(item) {
 
-    var items = {
+    var items = "";
 
       //sizes (4)
       "Large": 25, "Medium": 19, "Small": 15, "Personal": 10,
@@ -142,5 +142,5 @@ var pizza;
 
   });
 
-}
+};
 };

@@ -12,15 +12,15 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 * There is no installation needed, just open "index.html" in your favorite web  browser
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+*
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+The major issue that this file has right now is that it does not work.
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+Please contact me at jkbetc@gmail.com if you find any issues with this page.
 
 ## Technologies Used
 
@@ -35,8 +35,7 @@ Copyright (c) 2017 Joel Bakken
 Program Specs:
 | Behavior | Input | Output | Status |
 |-------- | ------- | ------ | --------|
-Webpage shows a list of available pizza ingredients | n/a | n/a |  
-Webpage gives user the ability to choose an ingredient via a checkbox option |  Pepperoni | [pepperoni] |
-User can select multiple ingredients at once via a checkbox option |  Pepperoni  Olives | [pepperoni] [olives] |
-Webpage displays a summary of the selected order options | [Entire order] | Summary of order |
- 
+|Webpage shows a list of available pizza ingredients | n/a | n/a |  Pass |
+Webpage gives user the ability to choose an ingredient via a checkbox option |  Pepperoni | [pepperoni] | Pass |
+User can select multiple ingredients at once via a checkbox option |  Pepperoni  Olives | [pepperoni] [olives] | Pass |
+Webpage displays a summary of the selected order options with total cost of the order | [Entire order] | Summary of order | Fail |
