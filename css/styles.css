@@ -1,4 +1,33 @@
 h4 {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 20px; 
+  color: #ff0000;
+  background-color: #ffc0cb;
+}
+#pizza_size {
+	background-color: #dba24a;
+}
+
+#pizza_crust {
+	background-color: #e12301;
+}
+
+#pizza_toppings {
+	background-color: #e1d800;
+}
+
+#pizza_sauce {
+	background-color: #ce0000;
+}
+
+#jumbotron {
+	background-color: #fffa8a;
+}
+
+body {
+	background-color: #ffecef;
+}
+
+.jumbotron {
+	background-color: #ffc0cb;
 }
