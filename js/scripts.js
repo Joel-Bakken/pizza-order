@@ -54,7 +54,7 @@ Pizza.prototype.priceForSauce = function() {
 
     //User Innterface Logic
 $(document).ready(function() {
-  $("form#pizza_options").submit(function(event) {
+  $("form").submit(function(event) {
     event.preventDefault();
 
 
